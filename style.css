@@ -53,3 +53,7 @@ h3 {
 .btn:focus {
     outline: 0;
 }
+
+.btn:active {
+    transform: scale(0.98);
+}
